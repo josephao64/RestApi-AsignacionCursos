@@ -7,7 +7,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/subject_assignment")
-public class SubjectAssignmentController {
+public class subjectAssignmentController {
 
     @Autowired
     private SubjectAssignmentService subjectAssignmentService;
